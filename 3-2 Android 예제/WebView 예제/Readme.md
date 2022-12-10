@@ -3,11 +3,13 @@
 ViewPager2를 이용한 Fragment간 슬라이딩.
 
 
-![SlidingFragment](https://github.com/DDANGEUN/SlidingFragmentUsingViewPager2/blob/master/DDANGEUN1.gif?raw=true)
+
 
 
 <br>
 <br>
+
+![untitled](https://user-images.githubusercontent.com/73435598/206870070-333da1d4-18e6-4e69-99a0-b2389d98ec9f.gif)
 
 # referance
 
