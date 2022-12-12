@@ -144,6 +144,6 @@ Version Control → Git → test<br>
 <Br>
   
 [TEST](https://github.com/jojun01835/CareKicks)<br>
-[Referance](https://dev-cini.tistory.com/16)
+[Wiki](https://github.com/jojun01835/2022-portportfolio/wiki/referance)
   
 <br>
