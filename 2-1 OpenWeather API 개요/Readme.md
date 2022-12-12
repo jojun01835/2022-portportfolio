@@ -51,4 +51,4 @@ geolocation 함수를 통해 위도, 경도 정보를 얻어, 보내야 하는 �
 
 <br>
 
-[OpenWeather API](https://openweathermap.org/api)
+[Wiki](https://github.com/jojun01835/2022-portportfolio/wiki/referance)
