@@ -75,6 +75,4 @@ this.W_state.icon : get으로 가져온 데이터에서 아이콘 정보(weather
 
 ## referance
 
-[OpenWater API 이미지](https://openweathermap.org/weather-conditions)<br>
-
-[OpenWater API Json](https://openweathermap.org/weather-data)<br>
+[Wiki](https://github.com/jojun01835/2022-portportfolio/wiki/referance)
